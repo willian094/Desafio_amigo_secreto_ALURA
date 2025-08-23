@@ -1,4 +1,4 @@
-# 🧑‍🤝‍🧑 Aplicação "Amigo Secreto"
+# 🧑‍🤝‍🧑 Projeto Amigo Secreto
 
 Este projeto é uma aplicação simples que permite aos usuários adicionarem nomes de amigos a uma lista e, posteriormente, realizar um sorteio aleatório para determinar quem será o amigo secreto.
 
